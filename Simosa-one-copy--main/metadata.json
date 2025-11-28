@@ -1,8 +1,0 @@
-{
-  "name": "Copy of Simosa Tok Web",
-  "description": "A responsive, TikTok-style web application featuring a vertical video feed, upload interface, and an admin dashboard for analytics.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
